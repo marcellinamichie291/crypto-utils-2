@@ -1,0 +1,6 @@
+[submodule "vartex"]
+	path = vartex
+	url = https://github.com/ArweaveTeam/vartex.git
+[submodule "arweave-js"]
+	path = arweave-js
+	url = https://github.com/ArweaveTeam/arweave-js.git
