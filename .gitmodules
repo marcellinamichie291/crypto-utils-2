@@ -4,3 +4,6 @@
 [submodule "arweave-js"]
 	path = arweave-js
 	url = https://github.com/ArweaveTeam/arweave-js.git
+[submodule "cardano-node"]
+	path = cardano-node
+	url = https://github.com/input-output-hk/cardano-node.git
