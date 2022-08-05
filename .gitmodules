@@ -10,3 +10,15 @@
 [submodule "machinaris"]
 	path = machinaris
 	url = https://github.com/guydavis/machinaris.git
+[submodule "libp2p"]
+	path = libp2p
+	url = https://github.com/libp2p/libp2p.git
+[submodule "seaweedfs"]
+	path = seaweedfs
+	url = https://github.com/chrislusf/seaweedfs.git
+[submodule "proxyfs"]
+	path = proxyfs
+	url = https://github.com/NVIDIA/proxyfs.git
+[submodule "poly-flash"]
+	path = poly-flash
+	url = https://github.com/yuichiroaoki/poly-flash.git
