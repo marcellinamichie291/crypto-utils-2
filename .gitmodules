@@ -7,9 +7,6 @@
 [submodule "cardano-node"]
 	path = cardano-node
 	url = https://github.com/input-output-hk/cardano-node.git
-[submodule "chia-docker"]
-	path = chia-docker
-	url = https://github.com/Chia-Network/chia-docker.git
 [submodule "machinaris"]
 	path = machinaris
 	url = https://github.com/guydavis/machinaris.git
